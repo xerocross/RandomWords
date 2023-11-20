@@ -1,5 +1,7 @@
 package com.adamfgcross.randomwords.randomwords.business;
 
+import java.util.List;
+
 public interface WordSelector {
-	public String[] getWords();
+	public List<String> getWords(Integer numWords);
 }
