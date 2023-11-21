@@ -9,7 +9,7 @@ If this line is still here, the project is not yet in a functioning state.
 Minimizing the code footprint is not a priority here. I'm practicing the Spring framework and certain related programming techniques and good practices. These are the requirements.
 
 * It works as expected, in an unsurprising way, transparently to the user.
-* It handles errors gracefully.
+* It handles errors gracefully and robustly.
 * The code, while not small in footprint, still makes sense and is transparent and readable.
 
 ## As a Spring Project
