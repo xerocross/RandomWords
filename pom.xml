@@ -11,7 +11,7 @@
 	<groupId>com.adamfgcross.randomwords</groupId>
 	<artifactId>randomwords</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>RandomWords</name>
+	<name>randomwords</name>
 	<description>RandomWords project</description>
 	<properties>
 		<java.version>17</java.version>
