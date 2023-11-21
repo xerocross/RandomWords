@@ -1,4 +1,4 @@
-package com.adamfgcross.randomwords.randomwords.resourcelayer;
+package com.adamfgcross.randomwords.resourcelayer;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

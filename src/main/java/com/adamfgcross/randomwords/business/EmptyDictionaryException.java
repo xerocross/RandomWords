@@ -1,4 +1,4 @@
-package com.adamfgcross.randomwords.randomwords.business;
+package com.adamfgcross.randomwords.business;
 
 public class EmptyDictionaryException extends RuntimeException {
 }
