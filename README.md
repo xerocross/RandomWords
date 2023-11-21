@@ -1,6 +1,16 @@
 # RandomWord
 
-This command-line utility contains a large dictionary of words (using a rather loose definition of what qualifies as a "word"). The program randomly chooses n words from the dictionary. It accepts the number `n` as input using the `-n` option. (It doesn't currently offer an interactive mode.)
+This command-line utility contains a large dictionary of words (using a rather loose definition of what qualifies as a "word"). The program randomly chooses n words from the dictionary. It accepts the number `n` as input using the `-n` option.
+
+If this line is still here, the project is not yet in a functioning state.
+
+## Requirements
+
+Minimizing the code footprint is not a priority here. I'm practicing the Spring framework and certain related programming techniques and good practices. These are the requirements.
+
+* It works as expected, in an unsurprising way, transparently to the user.
+* It handles errors gracefully.
+* The code, while not small in footprint, still makes sense and is transparent and readable.
 
 ## As a Spring Project
 
