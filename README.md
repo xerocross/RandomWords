@@ -2,7 +2,9 @@
 
 This command-line utility contains a large dictionary of words (using a rather loose definition of what qualifies as a "word"). The program randomly chooses n words from the dictionary. It accepts the number `n` as input using the `-n` option.
 
-If this line is still here, the project is not yet in a functioning state.
+The project builds and basic functionality is there, but there are known issues still in progress:
+* logging configuration isn't working (reason unknown)
+* there is no testing yet
 
 ## Requirements
 
