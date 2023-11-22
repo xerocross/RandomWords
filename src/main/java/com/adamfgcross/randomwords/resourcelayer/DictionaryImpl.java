@@ -1,7 +1,6 @@
 package com.adamfgcross.randomwords.resourcelayer;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.List;
@@ -27,6 +26,7 @@ public class DictionaryImpl implements Dictionary {
 			return this.wordList.size();
 		}
 
+		@SuppressWarnings("unused")
 		private void init() throws Exception {
 			wordList = new ArrayList<String>();
 			try (BufferedReader reader = new BufferedReader(new InputStreamReader(wordListAddress.getInputStream()))) {
